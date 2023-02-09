@@ -5,10 +5,10 @@ import org.junit.Test;
 import java.util.Set;
 
 public class SetExerciseTest {
-    static SetExercise se;
+    static Lab se;
     @BeforeClass
     public static void setUp(){
-        se = new SetExercise();
+        se = new Lab();
     }
 
     /**

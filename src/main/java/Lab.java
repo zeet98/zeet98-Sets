@@ -1,7 +1,6 @@
 
 import java.util.Set;
-import java.util.HashSet;
-import java.util.TreeSet;
+
 /**
  * Sets are unordered collections of elements. Sets do not allow duplicates.
  *
@@ -10,7 +9,7 @@ import java.util.TreeSet;
  * You can read about HashSet, a common and very efficient implementation of Set, here:
  * https://www.w3schools.com/java/java_hashset.asp
  */
-public class SetExercise {
+public class Lab {
     /**
      * Instantiate and return a Set of Integers.
      *
